@@ -1,4 +1,4 @@
-# Javascript-Practice
+# Javascript Practice
 Guide Used For Practice: https://github.com/nabin-8/FULL-STACK/blob/main/Learning/Resources/Jsbook.pdf
 
 # Java and Object Oriented Programming Practice
